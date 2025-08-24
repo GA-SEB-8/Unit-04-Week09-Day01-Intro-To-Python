@@ -156,7 +156,32 @@ weather_advice()
 ```
 
 
-## Exercise 5: What's the Season?
+## Exercise 5: Fizz Buzz
+```python
+
+# Write a Python script named `fizz_buzz` that prints numbers from 1 to 50, but:
+# - For multiples of 3, print "Fizz" instead of the number.
+# - For multiples of 5, print "Buzz" instead of the number.
+# - For multiples of BOTH 3 and 5, print "FizzBuzz".
+#
+# Requirements:
+# - Use a loop to iterate through numbers from 1 to 50.
+# - Use conditional statements to check divisibility.
+# - Print each result on a new line.
+#
+# Hints:
+# - Use the modulo operator `%` to check if a number is divisible by another.
+# - Check for multiples of BOTH 3 and 5 first to avoid missing them.
+#
+def fizz_buzz():
+    # Your loop and condition logic goes here
+
+# Call the function
+fizz_buzz()
+```
+
+
+## BONUS: Exercise 6: What's the Season?
 
 ```python
 # Exercise 5: What's the Season?
