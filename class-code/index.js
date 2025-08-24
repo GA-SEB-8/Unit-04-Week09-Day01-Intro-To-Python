@@ -8,7 +8,7 @@ function filterOddNumbers(num){
     return num %2 ==1
 }
 
-const oddNumbers = nums.filter((num)=>{return num %2 ==1})
+const oddNumbers = nums.filter(num=> num %2 ==1)
 console.log(oddNumbers)
 
 
