@@ -38,3 +38,20 @@ print(False)
 # || &&, and or
 print(True and False)
 print(True or False)
+
+
+
+print(type(True))
+
+
+# None
+print(type(None))
+
+
+
+# `My name is: ${myName}`
+# f' {}'
+
+my_name = "Omar"
+my_profession = "Programmer"
+print(f'my name is {my_name} and I work as a {my_profession}')
