@@ -55,3 +55,47 @@ print(type(None))
 my_name = "Omar"
 my_profession = "Programmer"
 print(f'my name is {my_name} and I work as a {my_profession}')
+
+
+
+# operations
+num1 =5
+num2 = 10
+
+result = num2 / num1
+print(result)
+
+# exponent
+print(5**3)
+
+print(17%3)
+
+# same thing:
+num2 = num2 + 5
+num2 += 5
+
+
+num1 = num1*2
+num2 *= 2
+
+
+
+multi_line_String = '''
+multi
+line
+string
+'''
+
+
+
+'''
+Multi Line Comment
+Many lines avaible
+'''
+
+
+print(len("omar"))
+print(len([1,2,3,4]))
+
+
+print("mohammad" in "my teacher is omar")
